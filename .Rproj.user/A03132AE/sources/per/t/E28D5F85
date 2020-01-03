@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576789505515.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "756712219",
+    "id" : "E28D5F85",
+    "lastKnownWriteTime" : 1576949888,
+    "last_content_update" : 1576949888592,
+    "path" : "C:/Users/Danielle/Desktop/crypto/R/crypto_funs.R",
+    "project_path" : "R/crypto_funs.R",
+    "properties" : {
+        "cursorPosition" : "137,0",
+        "scrollLine" : "110",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

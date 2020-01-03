@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577918139884.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3149835347",
+    "id" : "F7E656C9",
+    "lastKnownWriteTime" : 1576791929,
+    "last_content_update" : 1576791929,
+    "path" : "C:/Users/Danielle/Desktop/crypto/man/setcode.Rd",
+    "project_path" : "man/setcode.Rd",
+    "properties" : {
+    },
+    "read_only" : true,
+    "read_only_alternatives" : [
+        "R/crypto_funs.R"
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

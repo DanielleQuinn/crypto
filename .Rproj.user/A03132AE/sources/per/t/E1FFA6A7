@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1576796764479.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1520701154",
+    "id" : "E1FFA6A7",
+    "lastKnownWriteTime" : 1576806950,
+    "last_content_update" : 1576806950797,
+    "path" : "C:/Users/Danielle/Desktop/crypto/tests/testthat/test-crypto_funs.R",
+    "project_path" : "tests/testthat/test-crypto_funs.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

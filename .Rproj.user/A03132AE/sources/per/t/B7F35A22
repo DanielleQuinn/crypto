@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577918151009.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2488784121",
+    "id" : "B7F35A22",
+    "lastKnownWriteTime" : 1576804236,
+    "last_content_update" : 1576804236,
+    "path" : "C:/Users/Danielle/Desktop/crypto/man/decode.Rd",
+    "project_path" : "man/decode.Rd",
+    "properties" : {
+    },
+    "read_only" : true,
+    "read_only_alternatives" : [
+        "R/crypto_funs.R"
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

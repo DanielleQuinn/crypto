@@ -1,0 +1,17 @@
+.GlobalEnv
+package:crypto
+package:testthat
+package:dplyr
+package:stringr
+package:usethis
+package:devtools
+devtools_shims
+tools:rstudio
+package:stats
+package:graphics
+package:grDevices
+package:utils
+package:datasets
+package:methods
+Autoloads
+package:base
