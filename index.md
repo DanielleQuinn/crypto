@@ -1,7 +1,7 @@
 ---
 layout: page
-title: {crypto}
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: crypto
+description: Send coded messages to your friends!
 ---
 
 [Github Pages](https://pages.github.com) provide a simple way to make a
